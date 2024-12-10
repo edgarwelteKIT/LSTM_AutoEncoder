@@ -20,3 +20,19 @@ SnP stock daily graph reconstruction + price prediction:
 ```
 python lstm_ae_snp500.py
 ```
+
+## Installation
+
+1. Create venv:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+2. Install requirements:
+
+```bash
+pip install -r requirements.txt
+```
+
